@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact name="game">
+    <output-path>$PROJECT_DIR$/out/artifacts/game</output-path>
+    <root id="root">
+      <element id="archive" name="As2-MazeGame.jar">
+        <element id="module-output" name="As2-MazeGame" />
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
